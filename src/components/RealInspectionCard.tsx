@@ -43,7 +43,7 @@ export const RealInspectionCard: React.FC<RealInspectionCardProps> = ({ lang }) 
       {/* Real Inspection Photo Header with Live Badge */}
       <div className="relative h-52 sm:h-60 rounded-2xl overflow-hidden mb-4 border border-[#2A4354] shadow-inner group">
         <img
-          src="/src/assets/images/hero_tech_inspect_1787092958968.jpg"
+          src="/images/hero_tech_inspect_1787092958968.jpg"
           alt="Certified Engineer inspecting leak in Riyadh"
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
           referrerPolicy="no-referrer"

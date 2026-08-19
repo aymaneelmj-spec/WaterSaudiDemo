@@ -301,10 +301,10 @@ export const siteConfig: SiteConfig = {
         en: 'Eliminated heavy rain leaks and cracks by applying triple-layer elastomeric polymer coating with UV shield.'
       },
       location: { ar: 'حي الملقا، شمال الرياض', en: 'Al-Malqa District, North Riyadh' },
-      // REPLACE: before roof waterproofing photo
-      beforeImage: '/src/assets/images/roof_before_1787092685868.jpg',
-      // REPLACE: after roof waterproofing photo
-      afterImage: '/src/assets/images/roof_after_1787092697801.jpg',
+      // before roof waterproofing photo
+      beforeImage: '/images/roof_before_1787092685868.jpg',
+      // after roof waterproofing photo
+      afterImage: '/images/roof_after_1787092697801.jpg',
       beforeLabel: { ar: 'قبل: تشققات وتسرب مياه أمطار', en: 'Before: Cracks & Rain Seepage' },
       afterLabel: { ar: 'بعد: عزل ألماني متجانس بضمان 15 سنة', en: 'After: Seamless Coating (15y Warranty)' },
       resultSummary: { ar: 'منع تسرب بنسبة 100% وتخفيض حرارة السقف 8 درجات مئوية', en: '100% Water Tightness & 8°C Roof Temp Drop' }
@@ -318,10 +318,10 @@ export const siteConfig: SiteConfig = {
         en: 'Repaired concrete honeycombing, stopped groundwater infiltration, applied high-purity food-grade potable epoxy.'
       },
       location: { ar: 'حي الياسمين، شمال الرياض', en: 'Al-Yasmin District, North Riyadh' },
-      // REPLACE: before tank repair photo
-      beforeImage: '/src/assets/images/tank_before_1787092708049.jpg',
-      // REPLACE: after tank repair photo
-      afterImage: '/src/assets/images/tank_after_1787092716472.jpg',
+      // before tank repair photo
+      beforeImage: '/images/tank_before_1787092708049.jpg',
+      // after tank repair photo
+      afterImage: '/images/tank_after_1787092716472.jpg',
       beforeLabel: { ar: 'قبل: تسرب وفاقد مياه يومي', en: 'Before: Heavy Water Loss' },
       afterLabel: { ar: 'بعد: تبطين إيبوكسي أزرق معقم', en: 'After: Sanitized Blue Epoxy Lining' },
       resultSummary: { ar: 'توفير فاقد الخزان بالكامل وحل مشكلة فاتورة المياه', en: 'Zero Water Loss & Huge Bill Reduction' }
@@ -335,10 +335,10 @@ export const siteConfig: SiteConfig = {
         en: 'Acoustic sonar located broken pressurized pipe behind tiles without destroying the bathroom floor.'
       },
       location: { ar: 'حي حطين، شمال الرياض', en: 'Hittin District, North Riyadh' },
-      // REPLACE: before acoustic leak repair photo
-      beforeImage: '/src/assets/images/leak_before_1787092726080.jpg',
-      // REPLACE: after acoustic leak repair photo
-      afterImage: '/src/assets/images/leak_after_1787092732253.jpg',
+      // before acoustic leak repair photo
+      beforeImage: '/images/leak_before_1787092726080.jpg',
+      // after acoustic leak repair photo
+      afterImage: '/images/leak_after_1787092732253.jpg',
       beforeLabel: { ar: 'قبل: رطوبة وانتفاخ دهانات الجدار', en: 'Before: Wall Dampness & Peeling Paint' },
       afterLabel: { ar: 'بعد: إصلاح بقعة 20 سم وإعادة التبليط', en: 'After: 20cm Targeted Spot Fix & Retile' },
       resultSummary: { ar: 'توفير 85% من تكاليف التكسير والترميم العشوائي', en: 'Saved 85% vs Full Bathroom Demolition' }
@@ -352,10 +352,10 @@ export const siteConfig: SiteConfig = {
         en: 'High density 45kg/m³ polyurethane foam sprayed at 4cm thickness with UV elastomeric topcoat.'
       },
       location: { ar: 'حي النرجس، شمال الرياض', en: 'Al-Narjis District, North Riyadh' },
-      // REPLACE: before foam spray photo
-      beforeImage: '/src/assets/images/foam_before_1787092742987.jpg',
-      // REPLACE: after foam spray photo
-      afterImage: '/src/assets/images/foam_after_1787092750157.jpg',
+      // before foam spray photo
+      beforeImage: '/images/foam_before_1787092742987.jpg',
+      // after foam spray photo
+      afterImage: '/images/foam_after_1787092750157.jpg',
       beforeLabel: { ar: 'قبل: سطح شينكو ينفذ الحرارة والماء', en: 'Before: Leaking & Hot Metal Sheet' },
       afterLabel: { ar: 'بعد: طبقة فوم عازلة متصلة', en: 'After: Monolithic Insulation Coat' },
       resultSummary: { ar: 'تخفيض حمل التكييف بنسبة 40% وضمان 10 سنوات', en: '40% AC Energy Savings with 10y Warranty' }
